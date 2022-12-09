@@ -1,4 +1,4 @@
-disp_id,client_id,account_id,is_account_shared
+disp_id,client_id,account_id,is_shared
 1,1,1,0
 2,2,2,1
 4,4,3,1
